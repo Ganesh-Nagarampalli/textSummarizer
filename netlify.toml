@@ -1,0 +1,3 @@
+[build]
+  publish = "Desktop/textSummarizer/frontend"
+  functions = "Desktop/textSummarizer/functions"
